@@ -1,0 +1,4 @@
+Armando Casas,bicicleta
+Elsa Payo,carbon
+Aquiles Baeza,bicicleta
+Esteban Quito,transformer,lego,polera,avenger

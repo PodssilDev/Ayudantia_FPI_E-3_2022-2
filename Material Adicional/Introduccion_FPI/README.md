@@ -1,0 +1,2 @@
+# Ayudantía Introducción a Fundamentos de Programación 2022-2
+Ayudantía solidaria realizada en 2022-2 realizada para ayudar a los alumnos de la generación 2022 a preparar la asignatura. El contenido abarca hasta condicionales (If / Elif / Else)
